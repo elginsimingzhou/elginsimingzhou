@@ -1,4 +1,4 @@
-![ELgin's Logo](logoresize1)
+![ELgin's Logo](logoresize1.gif)
 ### Hi there 👋:trollface: I'm Elgin and I recently started programming! 
 - 🔭 I’m currently working on my own personal website/blogs [Elgin's website](https://elginsi.com)
 - 🌱 I’m currently learning how to code :computer:
