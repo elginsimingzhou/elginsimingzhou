@@ -1,5 +1,5 @@
 
-<img src="combine2.png" width="30px">
+<img src="combine2.png" width=100%>
 
 ### Hi there 👋:trollface: I'm Elgin and I recently started programming! 
 - 🔭 I’m currently working on my own personal website/blogs [Elgin's website](https://elginsi.com)
