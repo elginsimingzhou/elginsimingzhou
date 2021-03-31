@@ -1,4 +1,4 @@
-<img src= "elgin si ming zhou.png" width= "1200px" height = "200px">
+<img src= "elgin si ming zhou.png" width= "1200px" height = "400px">
 
 ### Hi there 👋:trollface: I'm Elgin and I recently started programming! 
 - 🔭 I’m currently working on my own personal website/blogs [(Visit Elgin's website)](https://elginsi.com)
