@@ -1,3 +1,4 @@
+# How I feel when the code does not work
 <img src ="https://64.media.tumblr.com/c9ee8ae2063aeedad2ea570b151cdda3/tumblr_pd9qrexcdp1wgwg1oo1_500.gifv">
 
 ### Hi there 👋:trollface: I'm Elgin and I recently started programming! 
