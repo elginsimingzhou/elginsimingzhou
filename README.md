@@ -1,6 +1,6 @@
 <img src= "elgin si ming zhou.png" >
 
-# Hi there 👋:trollface: I'm Elgin and I recently started programming! 
+# 👋:trollface: Welcome to my github. 
 - 🔭 My website/blog stuff [(Visit Elgin's website)](https://elginsi.com)
 - :computer: Learning how to code since 2021 
 - :mortar_board: Studying Business & Computer science at NTU
