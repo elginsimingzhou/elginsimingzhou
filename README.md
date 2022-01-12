@@ -1,5 +1,3 @@
-<img src= "elgin si ming zhou.png" >
-
 # 👋:trollface: Welcome to my github. 
 - 🔭 My website/blog stuff [(Visit Elgin's website)](https://elginsi.com)
 - :computer: Learning how to code since 2021 
