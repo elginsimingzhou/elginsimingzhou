@@ -1,5 +1,5 @@
 # 👋 Welcome to my github. 
-- 🔭 My website/blog stuff [(Visit Elgin's website)](https://elginsi.com](https://elginsimingzhou.github.io/portfolio_site/)
+- 🔭 My website/blog stuff [(Visit Elgin's website)](https://elginsimingzhou.github.io/portfolio_site/)
 - :computer: Learning how to code since 2021 
 - :mortar_board: Studying Business & Computer science at NTU
 - 📫 Facebook, Instagram or LinkedIn
